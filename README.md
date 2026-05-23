@@ -17,6 +17,20 @@
 
 ---
 
+### 👩‍💻 About Me
+
+```python
+shefali = {
+    "degree"   : "B.Tech (Hons.) Computer Science & Engineering — UPES (2027)",
+    "focus"    : ["Data Science", "NLP", "ML Pipelines", "BI Dashboards"],
+    "built"    : "5+ real-world projects (REST APIs, ML systems, analytics dashboards)",
+    "currently": "Building GitAnalyzer — AI-powered code intelligence platform",
+    "looking"  : "Data Science · ML Engineering · Data Analytics roles",
+}
+```
+
+---
+
 ### 🚀 Featured Projects
 
 | | Project | What it does |
@@ -52,16 +66,26 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shefali21s&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Shefali21s&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide=contribs" height="160"/>
   &nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shefali21s&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Shefali21s&theme=tokyonight&hide_border=true" height="160"/>
-</p>
+---
+
+### 📈 What I bring
+
+- 🧠 **ML end-to-end** — from raw data and ETL through feature engineering, model training, and deployment
+- 📊 **BI & storytelling** — Power BI (DAX, KPIs, drill-through), Tableau, and custom Python visualizations
+- 🔧 **Production mindset** — Docker, REST APIs, async task queues, CI/CD, microservices
+- 🗣️ **NLP** — sentiment analysis, text classification, embeddings, semantic search
+- 📉 **Analytics** — A/B testing, statistical analysis, EDA, predictive modelling
 
 ---
+
+<div align="center">
+  <i>💬 Always happy to connect — reach out on <a href="https://linkedin.com/in/shefali-upadhyay-03311b274">LinkedIn</a> or drop an <a href="mailto:shefali21s.u@gmail.com">email</a>!</i>
+</div>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=80&section=footer" width="100%"/>
