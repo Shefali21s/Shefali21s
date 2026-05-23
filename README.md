@@ -63,16 +63,6 @@ shefali = {
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shefali21s&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide=contribs" height="160"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shefali21s&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
-</p>
-
----
-
 ### 📈 What I bring
 
 - 🧠 **ML end-to-end** — from raw data and ETL through feature engineering, model training, and deployment
